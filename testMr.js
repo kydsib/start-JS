@@ -1,1 +1,1 @@
-console.log('Review my code!')
+console.info('Review my code!')
